@@ -3,7 +3,7 @@
 /* Estilos Generales */
 
 body {
-    background-color: #ad0302;
+    background-color: #14888a;
     color: white;
     padding: 20px;
 }
@@ -26,12 +26,12 @@ span {
 }
 
 nav {
-    background-color: #8c0201;
+    background-color: #0b5758;
 }
 
 span {
     background-color: white;
-    color: #fa0704;
+    color: #14888a;
 }
 
 .redes {
@@ -72,12 +72,12 @@ span {
 
 .nav {
     border-radius: 5px;
-    background-color: #8c0201;
+    background-color: #0b5758;
 }
 
 .card,
 .btn-primary {
-    background-color: #fa0704;
+    background-color: #14888a;
 }
 
 .btn-primary {
@@ -87,7 +87,7 @@ span {
 }
 
 .btn-primary:hover {
-    background-color: #fa0704;
+    background-color: #14888a;
 }
 
 .navbar-brand {
